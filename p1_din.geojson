@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "p1_din",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2284" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2.0, "locality": "Dinwiddie", "desc": "Rt 1, I-85 to Albemarle St. Roadway", "type": "Roadway + Bike\/ Ped", "lat_start": 37.20500799, "lon_start": -77.46006473, "lat_end": 37.20202245, "lon_end": -77.46155993000001 }, "geometry": { "type": "LineString", "coordinates": [ [ 11785772.786252552643418, 3599868.000750295352191 ], [ 11785349.319766135886312, 3598776.2581573179923 ] ] } }
+]
+}
